@@ -9,7 +9,7 @@
 - 💻 Passionate about full-stack development, beautiful UI/UX, and scalable web applications  
 - 🔧 Skilled in building responsive web apps using the **MERN stack**  
 - 🤖 Exploring **Generative AI** and integrating AI tools like OpenAI & Gemini into real-world products  
-- 🧠 Solved **120+ LeetCode** problems in Data Structures & Algorithms  
+- 🧠 Solved **200+ LeetCode** problems in Data Structures & Algorithms  
 - 🌱 Currently focused on backend development, performance optimization, and design systems  
 - 🎯 My goal is to create seamless, accessible, and high-performance digital products  
 
