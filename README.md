@@ -71,21 +71,6 @@
 
 ---
 
-## GitHub Stats
-
-### Stable & Working Stats (Recommended)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehakSaluja&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MehakSaluja&theme=radical&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakSaluja&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
-</p>
-
----
-
 ## Connect With Me
 
 * Portfolio: [https://portfoliomehak.vercel.app](https://portfoliomehak.vercel.app)
