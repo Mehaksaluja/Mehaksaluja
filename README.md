@@ -1,48 +1,87 @@
 # Hi there, I'm Mehak Saluja
 
-**Full Stack Developer | Flutter Developer | GenAI Explorer | UI/UX Enthusiast**
+**Full Stack Developer | Flutter Developer | GenAI Engineer**
 
 ---
 
 ## About Me
 
 * B.Tech Student at **Kurukshetra University**
-* Passionate about building scalable, user-centric digital products
-* Experienced in **Full Stack Development**, **Flutter app development**, and **Generative AI integration**
-* Skilled in designing clean, intuitive, and performance-focused UI/UX
-* Exploring real-world use cases of **GenAI**, automation, and intelligent agents
-* Solved **250+ Data Structures & Algorithms problems** across platforms
-* Currently focused on backend architecture, performance optimization, and design systems
-* Goal-driven to create accessible, high-performance, and impactful software solutions
+* Passionate about building scalable, real-world products with clean architecture
+* Strong experience in **Full Stack Development**, **Flutter**, and **Generative AI**
+* Actively building AI-powered applications using **LangChain**, **OpenAI**, and **Gemini**
+* Comfortable with both frontend polish and backend performance
+* Solved **250+ DSA problems** across platforms
+* Focused on system design, performance optimization, and developer-friendly UI systems
+* Goal: build impactful, accessible, and high-performance software products
 
 ---
 
-## Tech Stack
+## Tech Stack & Skills
 
-### Web & App Development
+### Programming Languages
 
-* **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-* **Backend:** Node.js, Express.js, MongoDB
-* **Mobile:** Flutter
-* **Tools:** Git & GitHub, Firebase, Postman, MongoDB Atlas, VS Code
+* C++
+* Python
+* JavaScript
+* Dart
 
-### Learning & Exploring
+### Web Development
 
-* Generative AI (OpenAI, Gemini APIs)
-* Full Stack system design & deployment
-* UI/UX design systems and interactive experiences
-* AI agents and automation workflows
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Tailwind CSS
+
+### Backend & Databases
+
+* Node.js
+* Express.js
+* MongoDB
+* MongoDB Atlas
+* Firebase (Auth, Firestore, Storage)
+
+### Mobile Development
+
+* Flutter
+
+### Generative AI & ML
+
+* LangChain
+* OpenAI API
+* Gemini API
+* Prompt Engineering
+* AI Agents & Automation
+
+### Data Science & Analysis
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+### Tools & Platforms
+
+* Git & GitHub
+* Postman
+* VS Code
+* Firebase Console
+* REST APIs
 
 ---
 
 ## GitHub Stats
 
+### Stable & Working Stats (Recommended)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehakSaluja&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MehakSaluja&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehakSaluja&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=MehakSaluja&theme=radical&cache_seconds=1800" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakSaluja&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakSaluja&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 </p>
 
 ---
@@ -56,4 +95,4 @@
 
 ---
 
-### “Turning ideas into clean code and meaningful digital experiences.”
+### “Turning ideas into clean code and intelligent digital experiences.”
