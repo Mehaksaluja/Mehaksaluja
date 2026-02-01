@@ -75,7 +75,6 @@
 
 * LinkedIn: [https://www.linkedin.com/in/mehak-saluja](https://www.linkedin.com/in/mehak-saluja)
 * GitHub: [https://github.com/MehakSaluja](https://github.com/MehakSaluja)
-* X (Twitter): [https://x.com/salujamehak5](https://x.com/salujamehak5)
 
 ---
 
