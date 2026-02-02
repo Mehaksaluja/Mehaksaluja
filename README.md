@@ -71,11 +71,4 @@
 
 ---
 
-## Connect With Me
-
-* LinkedIn: [https://www.linkedin.com/in/mehak-saluja](https://www.linkedin.com/in/mehak-saluja)
-* GitHub: [https://github.com/MehakSaluja](https://github.com/MehakSaluja)
-
----
-
 ### “Turning ideas into clean code and intelligent digital experiences.”
