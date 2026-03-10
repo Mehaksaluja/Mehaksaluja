@@ -27,7 +27,7 @@ Turning ideas into **clean code, intelligent systems, and scalable digital produ
 
 💻 Solved **250+ Data Structures & Algorithms problems**
 
-📈 Active GitHub contributor focused on **consistent commits, clean repositories, and production-grade code**
+📈 **417+ contributions in the last year** with a consistent development streak
 
 🎯 Goal: **Build impactful, accessible, and high-performance software products**
 
@@ -103,7 +103,13 @@ REST APIs
 
 ## 🟩 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night)
+
+---
+
+## 🐍 Animated Contribution Graph
+
+![Snake animation](https://github.com/Mehaksaluja/Mehaksaluja/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
