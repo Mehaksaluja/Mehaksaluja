@@ -1,74 +1,125 @@
-# Hi there, I'm Mehak Saluja
+# Hi there 👋 I'm **Mehak Saluja**
 
 **Full Stack Developer | Flutter Developer | GenAI Engineer**
 
----
-
-## About Me
-
-* B.Tech Student at **Kurukshetra University**
-* Passionate about building scalable, real-world products with clean architecture
-* Strong experience in **Full Stack Development**, **Flutter**, and **Generative AI**
-* Actively building AI-powered applications using **LangChain**, **OpenAI**, and **Gemini**
-* Comfortable with both frontend polish and backend performance
-* Solved **250+ DSA problems** across platforms
-* Focused on system design, performance optimization, and developer-friendly UI systems
-* Goal: build impactful, accessible, and high-performance software products
+Turning ideas into **clean code, intelligent systems, and scalable digital products.**
 
 ---
 
-## Tech Stack & Skills
+## 🚀 About Me
 
-### Programming Languages
+🎓 B.Tech Computer Science Student at **Kurukshetra University**
 
-* C++
-* Python
-* JavaScript
-* Dart
+💡 Passionate about building **real-world software products**
 
-### Web Development
+⚡ Strong focus on:
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Tailwind CSS
+* **Full Stack Development**
+* **Flutter Mobile Apps**
+* **Generative AI Applications**
+* **System Design**
 
-### Backend & Databases
+🧠 Currently building AI-powered tools using:
 
-* Node.js
-* Express.js
-* MongoDB
-* MongoDB Atlas
-* Firebase (Auth, Firestore, Storage)
+* **LangChain**
+* **OpenAI**
+* **Gemini**
 
-### Mobile Development
+💻 Solved **250+ DSA problems**
 
-* Flutter
+📈 Consistent contributor with active GitHub streak
 
-### Generative AI & ML
-
-* LangChain
-* OpenAI API
-* Gemini API
-* Prompt Engineering
-* AI Agents & Automation
-
-### Data Science & Analysis
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-
-### Tools & Platforms
-
-* Git & GitHub
-* Postman
-* VS Code
-* Firebase Console
-* REST APIs
+🎯 Goal: Build **impactful, scalable, and developer-friendly software products**
 
 ---
 
-### “Turning ideas into clean code and intelligent digital experiences.”
+# 🧠 Tech Stack
+
+### 💻 Programming Languages
+
+C++ • Python • JavaScript • Dart
+
+---
+
+### 🌐 Web Development
+
+HTML • CSS • JavaScript
+React.js • Tailwind CSS
+
+---
+
+### ⚙️ Backend & Databases
+
+Node.js • Express.js
+MongoDB • MongoDB Atlas
+Firebase (Auth • Firestore • Storage)
+
+---
+
+### 📱 Mobile Development
+
+Flutter
+
+---
+
+### 🤖 Generative AI & AI Engineering
+
+LangChain
+OpenAI API
+Gemini API
+Prompt Engineering
+AI Agents & Automation
+
+---
+
+### 📊 Data Science & Analysis
+
+NumPy
+Pandas
+Matplotlib
+Seaborn
+
+---
+
+### 🛠 Tools & Platforms
+
+Git • GitHub
+VS Code
+Postman
+Firebase Console
+REST APIs
+
+---
+
+# 📈 GitHub Statistics
+
+Add these to show **contributions, streak, languages, etc.**
+
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+```
+
+---
+
+# 🟩 Contribution Graph
+
+Shows the **green contribution boxes**
+
+```
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+```
+
+---
+
+# 🏆 Open Source & Contributions
+
+✔ Pull Requests
+✔ Feature Development
+✔ Bug Fixes
+✔ Code Reviews
+
+Actively contributing to **developer tools, AI applications, and full-stack projects.**
