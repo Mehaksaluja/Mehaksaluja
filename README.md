@@ -27,7 +27,7 @@ Turning ideas into **clean code, intelligent systems, and scalable digital produ
 
 💻 Solved **250+ Data Structures & Algorithms problems**
 
-📈 **417+ contributions in the last year** with a consistent development streak
+📈 **417+ contributions in the last year** with consistent development activity
 
 🎯 Goal: **Build impactful, accessible, and high-performance software products**
 
@@ -36,53 +36,34 @@ Turning ideas into **clean code, intelligent systems, and scalable digital produ
 ## 🧠 Tech Stack
 
 ### 💻 Programming Languages
-
 C++ • Python • JavaScript • Dart
 
----
-
 ### 🌐 Web Development
-
 HTML • CSS • JavaScript  
 React.js • Tailwind CSS
 
----
-
 ### ⚙️ Backend & Databases
-
 Node.js • Express.js  
 MongoDB • MongoDB Atlas  
 Firebase (Auth • Firestore • Storage)
 
----
-
 ### 📱 Mobile Development
-
 Flutter
 
----
-
 ### 🤖 Generative AI & AI Engineering
-
 LangChain  
 OpenAI API  
 Gemini API  
 Prompt Engineering  
 AI Agents & Automation
 
----
-
 ### 📊 Data Science & Analysis
-
 NumPy  
 Pandas  
 Matplotlib  
 Seaborn
 
----
-
 ### 🛠 Tools & Platforms
-
 Git • GitHub  
 VS Code  
 Postman  
@@ -107,9 +88,11 @@ REST APIs
 
 ---
 
-## 🐍 Animated Contribution Graph
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Mehaksaluja/Mehaksaluja/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
