@@ -27,7 +27,7 @@ Turning ideas into **clean code, intelligent systems, and scalable digital produ
 
 💻 Solved **250+ Data Structures & Algorithms problems**
 
-📈 **417+ contributions in the last year** with consistent development activity
+📈 **417+ contributions in the last year**
 
 🎯 Goal: **Build impactful, accessible, and high-performance software products**
 
@@ -74,24 +74,24 @@ REST APIs
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehaksaluja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehaksaluja&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mehaksaluja&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mehaksaluja&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehaksaluja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehaksaluja&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🟩 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
