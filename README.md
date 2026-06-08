@@ -8,7 +8,7 @@ Turning ideas into **clean code, intelligent systems, and scalable digital produ
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student at **Kurukshetra University**
+🎓 B.Tech Computer Science Student
 
 💡 Passionate about building **real-world software products with clean architecture**
 
