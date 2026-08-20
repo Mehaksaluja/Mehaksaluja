@@ -1,116 +1,76 @@
-# Hi there 👋 I'm Mehak Saluja
+# Hi, I'm Mehak Saluja
 
-**Full Stack Developer | Flutter Developer | GenAI Engineer**
+**AI Engineer | Full Stack Developer**
 
-Turning ideas into **clean code, intelligent systems, and scalable digital products.**
+Building **AI-powered applications, agentic systems, and scalable software products.**
 
----
+## About Me
 
-## 🚀 About Me
+B.Tech CSE student focused on **Agentic AI, LLM Engineering, and Full Stack Development**.
 
-🎓 B.Tech Computer Science Student
+* Building AI agents with **LangChain & LangGraph**
+* Exploring **RAG, Tool Calling, Agent Orchestration & LLM Evaluation**
+* Strong foundation in **Python, JavaScript, React, Node.js & Databases**
+* **300+ DSA problems** solved on LeetCode
+* Currently learning **PyTorch, Deep Learning & Computer Vision**
 
-💡 Passionate about building **real-world software products with clean architecture**
+## Tech Stack
 
-⚡ Strong focus on:
+**Languages:** Python • C++ • JavaScript • C • Dart
 
-- Full Stack Development
-- Flutter Mobile Applications
-- Generative AI Systems
-- Scalable Backend Architectures
+**AI & Agentic AI:** LangChain • LangGraph • OpenAI • Gemini • Groq • RAG • Tool Calling • AI Agents
 
-🧠 Currently building AI-powered applications using:
+**Development:** React • Node.js • Express • Flutter • Tailwind CSS • REST APIs
 
-- LangChain
-- OpenAI API
-- Gemini API
+**Databases:** MongoDB • PostgreSQL • SQLite • Firebase • Supabase
 
-💻 Solved **250+ Data Structures & Algorithms problems**
+**Tools:** Git • GitHub • Docker • Postman • Cursor • Claude • ChatGPT
 
-📈 **417+ contributions in the last year**
+## Projects
 
-🎯 Goal: **Build impactful, accessible, and high-performance software products**
+**Bounty**
+Autonomous AI agent for analyzing and resolving GitHub issues using multi-agent workflows, AST-based code understanding, sandboxed execution, and automated validation.
 
----
+**NewsifyX.ai**
+AI-powered news automation platform with LLM-based filtering, fact verification, automated workflows, and X publishing.
 
-## 🧠 Tech Stack
+**AI Voice Portfolio**
+Voice-driven AI portfolio assistant using LLMs, RAG, tool calling, and speech-to-text.
 
-### 💻 Programming Languages
-C++ • Python • JavaScript • Dart
-
-### 🌐 Web Development
-HTML • CSS • JavaScript  
-React.js • Tailwind CSS
-
-### ⚙️ Backend & Databases
-Node.js • Express.js  
-MongoDB • MongoDB Atlas  
-Firebase (Auth • Firestore • Storage)
-
-### 📱 Mobile Development
-Flutter
-
-### 🤖 Generative AI & AI Engineering
-LangChain  
-OpenAI API  
-Gemini API  
-Prompt Engineering  
-AI Agents & Automation
-
-### 📊 Data Science & Analysis
-NumPy  
-Pandas  
-Matplotlib  
-Seaborn
-
-### 🛠 Tools & Platforms
-Git • GitHub  
-VS Code  
-Postman  
-Firebase Console  
-REST APIs
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mehaksaluja&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mehaksaluja&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehaksaluja&layout=compact&theme=tokyonight)
-
----
-
-## 🟩 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
+## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mehaksaluja&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mehaksaluja&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehaksaluja&layout=compact&theme=tokyonight" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehaksaluja&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+## Achievements
+
+* Semi-Finalist — **Flipkart GRiD 7.0**
+* **300+ DSA Problems** on LeetCode
+* **417+ GitHub Contributions** in the last year
+* Smart India Hackathon Participant
+
 ---
 
-## 🏆 Open Source & Contributions
+<p align="center">
 
-✔ Pull Requests  
-✔ Feature Development  
-✔ Bug Fixes  
-✔ Code Reviews  
+**Building intelligent systems, one problem at a time.**
 
-Actively contributing to **AI applications, full-stack systems, and developer tools.**
+</p>
 
----
-
-### 💡
-
-**“Turning ideas into clean code and intelligent digital experiences.”**
-
----
-
-![](https://komarev.com/ghpvc/?username=Mehaksaluja&color=blue)
+![](https://komarev.com/ghpvc/?username=Mehaksaluja\&color=blue)
