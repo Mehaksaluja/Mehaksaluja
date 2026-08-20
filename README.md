@@ -1,4 +1,4 @@
-# Hi, I'm Mehak Saluja
+# Hi there 👋 I'm Mehak Saluja
 
 **AI Engineer | Full Stack Developer**
 
@@ -62,7 +62,7 @@ Voice-driven AI portfolio assistant using LLMs, RAG, tool calling, and speech-to
 
 * Semi-Finalist — **Flipkart GRiD 7.0**
 * **300+ DSA Problems** on LeetCode
-* **417+ GitHub Contributions** in the last year
+* **513 GitHub Contributions** in the last year
 * Smart India Hackathon Participant
 
 ---
