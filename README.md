@@ -63,7 +63,6 @@ Voice-driven AI portfolio assistant using LLMs, RAG, tool calling, and speech-to
 * Semi-Finalist — **Flipkart GRiD 7.0**
 * **300+ DSA Problems** on LeetCode
 * **513 GitHub Contributions** in the last year
-* Smart India Hackathon Participant
 
 ---
 
